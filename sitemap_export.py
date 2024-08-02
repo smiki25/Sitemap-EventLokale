@@ -24,6 +24,9 @@ def get_sitemap_urls(sitemap_url):
     soup = BeautifulSoup(response.content, 'xml')
     return [loc.text for loc in soup.find_all('loc')]
 
+def filter_search_urls(urls):
+    return [url for url in urls if 'search_' in url]
+
 def get_page_info(url):
     driver = get_driver()
 
@@ -98,11 +101,14 @@ def main(sitemap_url, output_file, max_count=None, batch_size=100):
         sub_sitemap_urls = get_sitemap_urls(url)
         all_sitemap_urls.extend(sub_sitemap_urls)
     
-    if max_count:
-        all_sitemap_urls = all_sitemap_urls[:max_count]
+    filtered_urls = filter_search_urls(all_sitemap_urls)
+    print(f"Total URLs: {len(filtered_urls)}")
     
-    total_urls = len(all_sitemap_urls)
-    batches = [all_sitemap_urls[i:i + batch_size] for i in range(0, total_urls, batch_size)]
+    if max_count:
+        filtered_urls = filtered_urls[:max_count]
+    
+    total_urls = len(filtered_urls)
+    batches = [filtered_urls[i:i + batch_size] for i in range(0, total_urls, batch_size)]
     
     all_page_info = []
     for i, batch in enumerate(batches):

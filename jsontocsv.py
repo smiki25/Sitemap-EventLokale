@@ -11,6 +11,7 @@ headers = data[0].keys()
 with open(csv_file, 'w', newline='', encoding='utf-8') as file:
     csv_writer = csv.DictWriter(file, fieldnames=headers)
     csv_writer.writeheader()
-    csv_writer.writerows(data)
+    for row in data:
+        csv_writer.writerow(row)
 
 print(f"Data has been written to {csv_file}")
