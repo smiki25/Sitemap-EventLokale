@@ -1,0 +1,502 @@
+[
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/konzert",
+        "h1": "Hotel, Seminarhotel für Konzert in der Schweiz",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/apero",
+        "h1": "Hotel, Seminarhotel für Apéro in der Schweiz",
+        "results_count": "106 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/messe_ausstellung",
+        "h1": "Hotel, Seminarhotel für Messe, Ausstellung in der Schweiz",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/theater-1",
+        "h1": "Hotel, Seminarhotel für Theater in der Schweiz",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/party",
+        "h1": "Hotel, Seminarhotel für Party, Feier in der Schweiz",
+        "results_count": "35 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/klassentreffen",
+        "h1": "Hotel, Seminarhotel für Klassentreffen in der Schweiz",
+        "results_count": "25 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/weihnachtsfeier",
+        "h1": "Hotel, Seminarhotel für Weihnachtsfeier in der Schweiz",
+        "results_count": "77 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/sportanlass",
+        "h1": "Hotel, Seminarhotel für Sportanlass in der Schweiz",
+        "results_count": "10 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/oeffentlicher_anlass",
+        "h1": "Hotel, Seminarhotel für Öffentlicher Anlass in der Schweiz",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/party-1",
+        "h1": "Hotel, Seminarhotel für Party in der Schweiz",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/vereinsanlass",
+        "h1": "Partyraum für Vereinsanlass in der Schweiz",
+        "results_count": "55 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/kongress",
+        "h1": "Partyraum für Kongress in der Schweiz",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/firmenanlass",
+        "h1": "Partyraum für Firmenanlass in der Schweiz",
+        "results_count": "115 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/gv_versammlung",
+        "h1": "Partyraum für Versammlung, GV in der Schweiz",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/meeting",
+        "h1": "Partyraum für Meeting in der Schweiz",
+        "results_count": "14 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/tagung",
+        "h1": "Partyraum für Tagung in der Schweiz",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/geburtstag",
+        "h1": "Partyraum für Geburtstag in der Schweiz",
+        "results_count": "147 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/hochzeit",
+        "h1": "Partyraum für Hochzeit in der Schweiz",
+        "results_count": "52 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/familienfeier",
+        "h1": "Partyraum für Familienfeier in der Schweiz",
+        "results_count": "84 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/privatanlass",
+        "h1": "Partyraum für Privatanlass in der Schweiz",
+        "results_count": "110 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/teamevent",
+        "h1": "Partyraum für Teamevent in der Schweiz",
+        "results_count": "50 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/apero",
+        "h1": "Partyraum für Apéro in der Schweiz",
+        "results_count": "65 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/party",
+        "h1": "Partyraum für Party, Feier in der Schweiz",
+        "results_count": "94 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/konzert",
+        "h1": "Partyraum für Konzert in der Schweiz",
+        "results_count": "26 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/theater-1",
+        "h1": "Partyraum für Theater in der Schweiz",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/messe_ausstellung",
+        "h1": "Partyraum für Messe, Ausstellung in der Schweiz",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/weihnachtsfeier",
+        "h1": "Partyraum für Weihnachtsfeier in der Schweiz",
+        "results_count": "38 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/klassentreffen",
+        "h1": "Partyraum für Klassentreffen in der Schweiz",
+        "results_count": "35 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/party-1",
+        "h1": "Partyraum für Party in der Schweiz",
+        "results_count": "43 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/sportanlass",
+        "h1": "Partyraum für Sportanlass in der Schweiz",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/partyraum/oeffentlicher_anlass",
+        "h1": "Partyraum für Öffentlicher Anlass in der Schweiz",
+        "results_count": "18 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/vereinsanlass",
+        "h1": "Restaurant für Vereinsanlass in der Schweiz",
+        "results_count": "71 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/kongress",
+        "h1": "Restaurant für Kongress in der Schweiz",
+        "results_count": "32 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/firmenanlass",
+        "h1": "Restaurant für Firmenanlass in der Schweiz",
+        "results_count": "625 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/gv_versammlung",
+        "h1": "Restaurant für Versammlung, GV in der Schweiz",
+        "results_count": "78 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/tagung",
+        "h1": "Restaurant für Tagung in der Schweiz",
+        "results_count": "197 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/meeting",
+        "h1": "Restaurant für Meeting in der Schweiz",
+        "results_count": "190 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/geburtstag",
+        "h1": "Restaurant für Geburtstag in der Schweiz",
+        "results_count": "513 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/familienfeier",
+        "h1": "Restaurant für Familienfeier in der Schweiz",
+        "results_count": "521 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/hochzeit",
+        "h1": "Restaurant für Hochzeit in der Schweiz",
+        "results_count": "355 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/teamevent",
+        "h1": "Restaurant für Teamevent in der Schweiz",
+        "results_count": "245 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/privatanlass",
+        "h1": "Restaurant für Privatanlass in der Schweiz",
+        "results_count": "465 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/party",
+        "h1": "Restaurant für Party, Feier in der Schweiz",
+        "results_count": "116 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/konzert",
+        "h1": "Restaurant für Konzert in der Schweiz",
+        "results_count": "25 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/apero",
+        "h1": "Restaurant für Apéro in der Schweiz",
+        "results_count": "296 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/theater-1",
+        "h1": "Restaurant für Theater in der Schweiz",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/messe_ausstellung",
+        "h1": "Restaurant für Messe, Ausstellung in der Schweiz",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/weihnachtsfeier",
+        "h1": "Restaurant für Weihnachtsfeier in der Schweiz",
+        "results_count": "208 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/klassentreffen",
+        "h1": "Restaurant für Klassentreffen in der Schweiz",
+        "results_count": "47 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/sportanlass",
+        "h1": "Restaurant für Sportanlass in der Schweiz",
+        "results_count": "10 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/party-1",
+        "h1": "Restaurant für Party in der Schweiz",
+        "results_count": "21 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/restaurant-1/oeffentlicher_anlass",
+        "h1": "Restaurant für Öffentlicher Anlass in der Schweiz",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/vereinsanlass",
+        "h1": "Schloss für Vereinsanlass in der Schweiz",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/kongress",
+        "h1": "Schloss für Kongress in der Schweiz",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/firmenanlass",
+        "h1": "Schloss für Firmenanlass in der Schweiz",
+        "results_count": "43 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/gv_versammlung",
+        "h1": "Schloss für Versammlung, GV in der Schweiz",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/tagung",
+        "h1": "Schloss für Tagung in der Schweiz",
+        "results_count": "17 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/meeting",
+        "h1": "Schloss für Meeting in der Schweiz",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/geburtstag",
+        "h1": "Schloss für Geburtstag in der Schweiz",
+        "results_count": "29 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/hochzeit",
+        "h1": "Schloss für Hochzeit in der Schweiz",
+        "results_count": "51 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/familienfeier",
+        "h1": "Schloss für Familienfeier in der Schweiz",
+        "results_count": "38 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/privatanlass",
+        "h1": "Schloss für Privatanlass in der Schweiz",
+        "results_count": "23 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/teamevent",
+        "h1": "Schloss für Teamevent in der Schweiz",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/apero",
+        "h1": "Schloss für Apéro in der Schweiz",
+        "results_count": "17 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/party",
+        "h1": "Schloss für Party, Feier in der Schweiz",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/konzert",
+        "h1": "Schloss für Konzert in der Schweiz",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/theater-1",
+        "h1": "Schloss für Theater in der Schweiz",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/messe_ausstellung",
+        "h1": "Schloss für Messe, Ausstellung in der Schweiz",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/weihnachtsfeier",
+        "h1": "Schloss für Weihnachtsfeier in der Schweiz",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/klassentreffen",
+        "h1": "Schloss für Klassentreffen in der Schweiz",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/party-1",
+        "h1": "Schloss für Party in der Schweiz",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/sportanlass",
+        "h1": "Schloss für Sportanlass in der Schweiz",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/schloss/oeffentlicher_anlass",
+        "h1": "Schloss für Öffentlicher Anlass in der Schweiz",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/vereinsanlass",
+        "h1": "Kongresszentrum für Vereinsanlass in der Schweiz",
+        "results_count": "11 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/firmenanlass",
+        "h1": "Kongresszentrum für Firmenanlass in der Schweiz",
+        "results_count": "106 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/gv_versammlung",
+        "h1": "Kongresszentrum für Versammlung, GV in der Schweiz",
+        "results_count": "81 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/meeting",
+        "h1": "Kongresszentrum für Meeting in der Schweiz",
+        "results_count": "76 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/kongress",
+        "h1": "Kongresszentrum für Kongress in der Schweiz",
+        "results_count": "85 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/tagung",
+        "h1": "Kongresszentrum für Tagung in der Schweiz",
+        "results_count": "91 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/geburtstag",
+        "h1": "Kongresszentrum für Geburtstag in der Schweiz",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/hochzeit",
+        "h1": "Kongresszentrum für Hochzeit in der Schweiz",
+        "results_count": "33 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/familienfeier",
+        "h1": "Kongresszentrum für Familienfeier in der Schweiz",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/privatanlass",
+        "h1": "Kongresszentrum für Privatanlass in der Schweiz",
+        "results_count": "16 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/apero",
+        "h1": "Kongresszentrum für Apéro in der Schweiz",
+        "results_count": "22 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/party",
+        "h1": "Kongresszentrum für Party, Feier in der Schweiz",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/konzert",
+        "h1": "Kongresszentrum für Konzert in der Schweiz",
+        "results_count": "24 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/theater-1",
+        "h1": "Kongresszentrum für Theater in der Schweiz",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/teamevent",
+        "h1": "Kongresszentrum für Teamevent in der Schweiz",
+        "results_count": "19 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/weihnachtsfeier",
+        "h1": "Kongresszentrum für Weihnachtsfeier in der Schweiz",
+        "results_count": "39 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/messe_ausstellung",
+        "h1": "Kongresszentrum für Messe, Ausstellung in der Schweiz",
+        "results_count": "24 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/party-1",
+        "h1": "Kongresszentrum für Party in der Schweiz",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/klassentreffen",
+        "h1": "Kongresszentrum für Klassentreffen in der Schweiz",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/sportanlass",
+        "h1": "Kongresszentrum für Sportanlass in der Schweiz",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/kongresszentrum/oeffentlicher_anlass",
+        "h1": "Kongresszentrum für Öffentlicher Anlass in der Schweiz",
+        "results_count": "13 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/waldhuette/vereinsanlass",
+        "h1": "Waldhütte für Vereinsanlass in der Schweiz",
+        "results_count": "138 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/waldhuette/kongress",
+        "h1": "Waldhütte für Kongress in der Schweiz",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/waldhuette/firmenanlass",
+        "h1": "Waldhütte für Firmenanlass in der Schweiz",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/waldhuette/gv_versammlung",
+        "h1": "Waldhütte für Versammlung, GV in der Schweiz",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/waldhuette/meeting",
+        "h1": "Waldhütte für Meeting in der Schweiz",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/waldhuette/tagung",
+        "h1": "Waldhütte für Tagung in der Schweiz",
+        "results_count": "1 Resultat"
+    }
+]

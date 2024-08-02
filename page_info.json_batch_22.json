@@ -1,0 +1,477 @@
+[
+    {
+        "url": "https://www.eventlokale.ch/locations/kulturzentrum/liechtenstein",
+        "h1": "Kulturzentrum für deinen Event im Kanton Liechtenstein",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/obwalden",
+        "h1": "Museum für deinen Event im Kanton Obwalden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/thurgau",
+        "h1": "Museum für deinen Event im Kanton Thurgau",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/solothurn",
+        "h1": "Museum für deinen Event im Kanton Solothurn",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/zuerich",
+        "h1": "Museum für deinen Event im Kanton Zürich",
+        "results_count": "10 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/schwyz",
+        "h1": "Museum für deinen Event im Kanton Schwyz",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/graubuenden",
+        "h1": "Museum für deinen Event im Kanton Graubünden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/tessin",
+        "h1": "Museum für deinen Event im Kanton Tessin",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/basel_landschaft",
+        "h1": "Museum für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/aargau",
+        "h1": "Museum für deinen Event im Kanton Aargau",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/basel_stadt",
+        "h1": "Museum für deinen Event im Kanton Basel-Stadt",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/fribourg",
+        "h1": "Museum für deinen Event im Kanton Fribourg",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/zug",
+        "h1": "Museum für deinen Event im Kanton Zug",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/luzern",
+        "h1": "Museum für deinen Event im Kanton Luzern",
+        "results_count": "11 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/bern",
+        "h1": "Museum für deinen Event im Kanton Bern",
+        "results_count": "11 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/waadt",
+        "h1": "Museum für deinen Event im Kanton Waadt",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/neuenburg",
+        "h1": "Museum für deinen Event im Kanton Neuenburg",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/st_gallen",
+        "h1": "Museum für deinen Event im Kanton St. Gallen",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/glarus",
+        "h1": "Museum für deinen Event im Kanton Glarus",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/genf",
+        "h1": "Museum für deinen Event im Kanton Genf",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/schaffhausen",
+        "h1": "Museum für deinen Event im Kanton Schaffhausen",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/appenzell_ausserrhoden",
+        "h1": "Museum für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/nidwalden",
+        "h1": "Museum für deinen Event im Kanton Nidwalden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/appenzell_innerrhoden",
+        "h1": "Museum für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/jura",
+        "h1": "Museum für deinen Event im Kanton Jura",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/liechtenstein",
+        "h1": "Museum für deinen Event im Kanton Liechtenstein",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/museum/uri",
+        "h1": "Museum für deinen Event im Kanton Uri",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/thurgau",
+        "h1": "Theater für deinen Event im Kanton Thurgau",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/solothurn",
+        "h1": "Theater für deinen Event im Kanton Solothurn",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/obwalden",
+        "h1": "Theater für deinen Event im Kanton Obwalden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/tessin",
+        "h1": "Theater für deinen Event im Kanton Tessin",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/zuerich",
+        "h1": "Theater für deinen Event im Kanton Zürich",
+        "results_count": "19 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/schwyz",
+        "h1": "Theater für deinen Event im Kanton Schwyz",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/wallis",
+        "h1": "Theater für deinen Event im Kanton Wallis",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/graubuenden",
+        "h1": "Theater für deinen Event im Kanton Graubünden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/basel_landschaft",
+        "h1": "Theater für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/aargau",
+        "h1": "Theater für deinen Event im Kanton Aargau",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/fribourg",
+        "h1": "Theater für deinen Event im Kanton Fribourg",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/basel_stadt",
+        "h1": "Theater für deinen Event im Kanton Basel-Stadt",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/zug",
+        "h1": "Theater für deinen Event im Kanton Zug",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/waadt",
+        "h1": "Theater für deinen Event im Kanton Waadt",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/neuenburg",
+        "h1": "Theater für deinen Event im Kanton Neuenburg",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/bern",
+        "h1": "Theater für deinen Event im Kanton Bern",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/st_gallen",
+        "h1": "Theater für deinen Event im Kanton St. Gallen",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/genf",
+        "h1": "Theater für deinen Event im Kanton Genf",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/schaffhausen",
+        "h1": "Theater für deinen Event im Kanton Schaffhausen",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/glarus",
+        "h1": "Theater für deinen Event im Kanton Glarus",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/appenzell_ausserrhoden",
+        "h1": "Theater für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/nidwalden",
+        "h1": "Theater für deinen Event im Kanton Nidwalden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/appenzell_innerrhoden",
+        "h1": "Theater für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/jura",
+        "h1": "Theater für deinen Event im Kanton Jura",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/uri",
+        "h1": "Theater für deinen Event im Kanton Uri",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/theater/liechtenstein",
+        "h1": "Theater für deinen Event im Kanton Liechtenstein",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/solothurn",
+        "h1": "Villa für deinen Event im Kanton Solothurn",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/thurgau",
+        "h1": "Villa für deinen Event im Kanton Thurgau",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/tessin",
+        "h1": "Villa für deinen Event im Kanton Tessin",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/obwalden",
+        "h1": "Villa für deinen Event im Kanton Obwalden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/zuerich",
+        "h1": "Villa für deinen Event im Kanton Zürich",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/wallis",
+        "h1": "Villa für deinen Event im Kanton Wallis",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/basel_landschaft",
+        "h1": "Villa für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/schwyz",
+        "h1": "Villa für deinen Event im Kanton Schwyz",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/basel_stadt",
+        "h1": "Villa für deinen Event im Kanton Basel-Stadt",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/aargau",
+        "h1": "Villa für deinen Event im Kanton Aargau",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/fribourg",
+        "h1": "Villa für deinen Event im Kanton Fribourg",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/waadt",
+        "h1": "Villa für deinen Event im Kanton Waadt",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/luzern",
+        "h1": "Villa für deinen Event im Kanton Luzern",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/zug",
+        "h1": "Villa für deinen Event im Kanton Zug",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/bern",
+        "h1": "Villa für deinen Event im Kanton Bern",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/neuenburg",
+        "h1": "Villa für deinen Event im Kanton Neuenburg",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/genf",
+        "h1": "Villa für deinen Event im Kanton Genf",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/st_gallen",
+        "h1": "Villa für deinen Event im Kanton St. Gallen",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/schaffhausen",
+        "h1": "Villa für deinen Event im Kanton Schaffhausen",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/appenzell_ausserrhoden",
+        "h1": "Villa für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/nidwalden",
+        "h1": "Villa für deinen Event im Kanton Nidwalden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/glarus",
+        "h1": "Villa für deinen Event im Kanton Glarus",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/appenzell_innerrhoden",
+        "h1": "Villa für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/liechtenstein",
+        "h1": "Villa für deinen Event im Kanton Liechtenstein",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/villa/jura",
+        "h1": "Villa für deinen Event im Kanton Jura",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/thurgau",
+        "h1": "Historische Stätte für deinen Event im Kanton Thurgau",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/tessin",
+        "h1": "Historische Stätte für deinen Event im Kanton Tessin",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/obwalden",
+        "h1": "Historische Stätte für deinen Event im Kanton Obwalden",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/zuerich",
+        "h1": "Historische Stätte für deinen Event im Kanton Zürich",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/schwyz",
+        "h1": "Historische Stätte für deinen Event im Kanton Schwyz",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/solothurn",
+        "h1": "Historische Stätte für deinen Event im Kanton Solothurn",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/graubuenden",
+        "h1": "Historische Stätte für deinen Event im Kanton Graubünden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/wallis",
+        "h1": "Historische Stätte für deinen Event im Kanton Wallis",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/aargau",
+        "h1": "Historische Stätte für deinen Event im Kanton Aargau",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/basel_landschaft",
+        "h1": "Historische Stätte für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/basel_stadt",
+        "h1": "Historische Stätte für deinen Event im Kanton Basel-Stadt",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/fribourg",
+        "h1": "Historische Stätte für deinen Event im Kanton Fribourg",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/zug",
+        "h1": "Historische Stätte für deinen Event im Kanton Zug",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/waadt",
+        "h1": "Historische Stätte für deinen Event im Kanton Waadt",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/luzern",
+        "h1": "Historische Stätte für deinen Event im Kanton Luzern",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/bern",
+        "h1": "Historische Stätte für deinen Event im Kanton Bern",
+        "results_count": "18 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/historische_staette/st_gallen",
+        "h1": "Historische Stätte für deinen Event im Kanton St. Gallen",
+        "results_count": "5 Resultate"
+    }
+]

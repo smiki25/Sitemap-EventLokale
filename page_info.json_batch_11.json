@@ -1,0 +1,502 @@
+[
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/aargau",
+        "h1": "Locations für Firmenanlass im Kanton Aargau",
+        "results_count": "105 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/basel_landschaft",
+        "h1": "Locations für Firmenanlass im Kanton Basel-Landschaft",
+        "results_count": "43 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/basel_stadt",
+        "h1": "Locations für Firmenanlass im Kanton Basel-Stadt",
+        "results_count": "97 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/graubuenden",
+        "h1": "Locations für Firmenanlass im Kanton Graubünden",
+        "results_count": "75 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/fribourg",
+        "h1": "Locations für Firmenanlass im Kanton Fribourg",
+        "results_count": "16 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/zug",
+        "h1": "Locations für Firmenanlass im Kanton Zug",
+        "results_count": "34 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/wallis",
+        "h1": "Locations für Firmenanlass im Kanton Wallis",
+        "results_count": "44 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/waadt",
+        "h1": "Locations für Firmenanlass im Kanton Waadt",
+        "results_count": "45 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/luzern",
+        "h1": "Locations für Firmenanlass im Kanton Luzern",
+        "results_count": "124 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/bern",
+        "h1": "Locations für Firmenanlass im Kanton Bern",
+        "results_count": "262 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/neuenburg",
+        "h1": "Locations für Firmenanlass im Kanton Neuenburg",
+        "results_count": "14 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/st_gallen",
+        "h1": "Locations für Firmenanlass im Kanton St. Gallen",
+        "results_count": "96 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/glarus",
+        "h1": "Locations für Firmenanlass im Kanton Glarus",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/schaffhausen",
+        "h1": "Locations für Firmenanlass im Kanton Schaffhausen",
+        "results_count": "26 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/genf",
+        "h1": "Locations für Firmenanlass im Kanton Genf",
+        "results_count": "14 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/appenzell_ausserrhoden",
+        "h1": "Locations für Firmenanlass im Kanton Appenzell Ausserrhoden",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/nidwalden",
+        "h1": "Locations für Firmenanlass im Kanton Nidwalden",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/appenzell_innerrhoden",
+        "h1": "Locations für Firmenanlass im Kanton Appenzell Innerrhoden",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/liechtenstein",
+        "h1": "Locations für Firmenanlass im Kanton Liechtenstein",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/uri",
+        "h1": "Locations für Firmenanlass im Kanton Uri",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/firmenanlass/jura",
+        "h1": "Locations für Firmenanlass im Kanton Jura",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/thurgau",
+        "h1": "Locations für Versammlung, GV im Kanton Thurgau",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/solothurn",
+        "h1": "Locations für Versammlung, GV im Kanton Solothurn",
+        "results_count": "22 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/obwalden",
+        "h1": "Locations für Versammlung, GV im Kanton Obwalden",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/zuerich",
+        "h1": "Locations für Versammlung, GV im Kanton Zürich",
+        "results_count": "124 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/tessin",
+        "h1": "Locations für Versammlung, GV im Kanton Tessin",
+        "results_count": "13 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/schwyz",
+        "h1": "Locations für Versammlung, GV im Kanton Schwyz",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/wallis",
+        "h1": "Locations für Versammlung, GV im Kanton Wallis",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/aargau",
+        "h1": "Locations für Versammlung, GV im Kanton Aargau",
+        "results_count": "38 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/graubuenden",
+        "h1": "Locations für Versammlung, GV im Kanton Graubünden",
+        "results_count": "16 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/basel_landschaft",
+        "h1": "Locations für Versammlung, GV im Kanton Basel-Landschaft",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/basel_stadt",
+        "h1": "Locations für Versammlung, GV im Kanton Basel-Stadt",
+        "results_count": "23 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/fribourg",
+        "h1": "Locations für Versammlung, GV im Kanton Fribourg",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/luzern",
+        "h1": "Locations für Versammlung, GV im Kanton Luzern",
+        "results_count": "35 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/zug",
+        "h1": "Locations für Versammlung, GV im Kanton Zug",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/waadt",
+        "h1": "Locations für Versammlung, GV im Kanton Waadt",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/bern",
+        "h1": "Locations für Versammlung, GV im Kanton Bern",
+        "results_count": "72 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/neuenburg",
+        "h1": "Locations für Versammlung, GV im Kanton Neuenburg",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/st_gallen",
+        "h1": "Locations für Versammlung, GV im Kanton St. Gallen",
+        "results_count": "25 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/schaffhausen",
+        "h1": "Locations für Versammlung, GV im Kanton Schaffhausen",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/genf",
+        "h1": "Locations für Versammlung, GV im Kanton Genf",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/glarus",
+        "h1": "Locations für Versammlung, GV im Kanton Glarus",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/appenzell_ausserrhoden",
+        "h1": "Locations für Versammlung, GV im Kanton Appenzell Ausserrhoden",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/nidwalden",
+        "h1": "Locations für Versammlung, GV im Kanton Nidwalden",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/appenzell_innerrhoden",
+        "h1": "Locations für Versammlung, GV im Kanton Appenzell Innerrhoden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/uri",
+        "h1": "Locations für Versammlung, GV im Kanton Uri",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/jura",
+        "h1": "Locations für Versammlung, GV im Kanton Jura",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/gv_versammlung/liechtenstein",
+        "h1": "Locations für Versammlung, GV im Kanton Liechtenstein",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/thurgau",
+        "h1": "Locations für Meeting im Kanton Thurgau",
+        "results_count": "16 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/solothurn",
+        "h1": "Locations für Meeting im Kanton Solothurn",
+        "results_count": "13 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/tessin",
+        "h1": "Locations für Meeting im Kanton Tessin",
+        "results_count": "28 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/obwalden",
+        "h1": "Locations für Meeting im Kanton Obwalden",
+        "results_count": "13 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/zuerich",
+        "h1": "Locations für Meeting im Kanton Zürich",
+        "results_count": "150 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/schwyz",
+        "h1": "Locations für Meeting im Kanton Schwyz",
+        "results_count": "13 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/wallis",
+        "h1": "Locations für Meeting im Kanton Wallis",
+        "results_count": "18 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/graubuenden",
+        "h1": "Locations für Meeting im Kanton Graubünden",
+        "results_count": "39 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/basel_landschaft",
+        "h1": "Locations für Meeting im Kanton Basel-Landschaft",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/aargau",
+        "h1": "Locations für Meeting im Kanton Aargau",
+        "results_count": "43 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/basel_stadt",
+        "h1": "Locations für Meeting im Kanton Basel-Stadt",
+        "results_count": "47 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/zug",
+        "h1": "Locations für Meeting im Kanton Zug",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/fribourg",
+        "h1": "Locations für Meeting im Kanton Fribourg",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/waadt",
+        "h1": "Locations für Meeting im Kanton Waadt",
+        "results_count": "21 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/luzern",
+        "h1": "Locations für Meeting im Kanton Luzern",
+        "results_count": "50 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/bern",
+        "h1": "Locations für Meeting im Kanton Bern",
+        "results_count": "115 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/neuenburg",
+        "h1": "Locations für Meeting im Kanton Neuenburg",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/st_gallen",
+        "h1": "Locations für Meeting im Kanton St. Gallen",
+        "results_count": "34 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/glarus",
+        "h1": "Locations für Meeting im Kanton Glarus",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/schaffhausen",
+        "h1": "Locations für Meeting im Kanton Schaffhausen",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/appenzell_ausserrhoden",
+        "h1": "Locations für Meeting im Kanton Appenzell Ausserrhoden",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/nidwalden",
+        "h1": "Locations für Meeting im Kanton Nidwalden",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/appenzell_innerrhoden",
+        "h1": "Locations für Meeting im Kanton Appenzell Innerrhoden",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/jura",
+        "h1": "Locations für Meeting im Kanton Jura",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/genf",
+        "h1": "Locations für Meeting im Kanton Genf",
+        "results_count": "14 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/uri",
+        "h1": "Locations für Meeting im Kanton Uri",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/meeting/liechtenstein",
+        "h1": "Locations für Meeting im Kanton Liechtenstein",
+        "results_count": "4 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/thurgau",
+        "h1": "Locations für Tagung im Kanton Thurgau",
+        "results_count": "19 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/solothurn",
+        "h1": "Locations für Tagung im Kanton Solothurn",
+        "results_count": "19 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/obwalden",
+        "h1": "Locations für Tagung im Kanton Obwalden",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/tessin",
+        "h1": "Locations für Tagung im Kanton Tessin",
+        "results_count": "31 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/zuerich",
+        "h1": "Locations für Tagung im Kanton Zürich",
+        "results_count": "150 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/schwyz",
+        "h1": "Locations für Tagung im Kanton Schwyz",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/wallis",
+        "h1": "Locations für Tagung im Kanton Wallis",
+        "results_count": "27 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/aargau",
+        "h1": "Locations für Tagung im Kanton Aargau",
+        "results_count": "43 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/graubuenden",
+        "h1": "Locations für Tagung im Kanton Graubünden",
+        "results_count": "52 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/basel_landschaft",
+        "h1": "Locations für Tagung im Kanton Basel-Landschaft",
+        "results_count": "11 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/basel_stadt",
+        "h1": "Locations für Tagung im Kanton Basel-Stadt",
+        "results_count": "44 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/fribourg",
+        "h1": "Locations für Tagung im Kanton Fribourg",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/zug",
+        "h1": "Locations für Tagung im Kanton Zug",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/luzern",
+        "h1": "Locations für Tagung im Kanton Luzern",
+        "results_count": "36 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/bern",
+        "h1": "Locations für Tagung im Kanton Bern",
+        "results_count": "96 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/waadt",
+        "h1": "Locations für Tagung im Kanton Waadt",
+        "results_count": "28 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/neuenburg",
+        "h1": "Locations für Tagung im Kanton Neuenburg",
+        "results_count": "10 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/st_gallen",
+        "h1": "Locations für Tagung im Kanton St. Gallen",
+        "results_count": "48 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/glarus",
+        "h1": "Locations für Tagung im Kanton Glarus",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/schaffhausen",
+        "h1": "Locations für Tagung im Kanton Schaffhausen",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/appenzell_ausserrhoden",
+        "h1": "Locations für Tagung im Kanton Appenzell Ausserrhoden",
+        "results_count": "9 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/genf",
+        "h1": "Locations für Tagung im Kanton Genf",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/nidwalden",
+        "h1": "Locations für Tagung im Kanton Nidwalden",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/jura",
+        "h1": "Locations für Tagung im Kanton Jura",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/tagung/appenzell_innerrhoden",
+        "h1": "Locations für Tagung im Kanton Appenzell Innerrhoden",
+        "results_count": "1 Resultat"
+    }
+]

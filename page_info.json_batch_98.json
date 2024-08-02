@@ -1,0 +1,487 @@
+[
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/schwyz",
+        "h1": "Agentur für deinen Event im Kanton Schwyz",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/graubuenden",
+        "h1": "Agentur für deinen Event im Kanton Graubünden",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/wallis",
+        "h1": "Agentur für deinen Event im Kanton Wallis",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/basel_landschaft",
+        "h1": "Agentur für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/basel_stadt",
+        "h1": "Agentur für deinen Event im Kanton Basel-Stadt",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/fribourg",
+        "h1": "Agentur für deinen Event im Kanton Fribourg",
+        "results_count": "13 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/aargau",
+        "h1": "Agentur für deinen Event im Kanton Aargau",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/zug",
+        "h1": "Agentur für deinen Event im Kanton Zug",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/luzern",
+        "h1": "Agentur für deinen Event im Kanton Luzern",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/waadt",
+        "h1": "Agentur für deinen Event im Kanton Waadt",
+        "results_count": "13 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/bern",
+        "h1": "Agentur für deinen Event im Kanton Bern",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/zuerich",
+        "h1": "Agentur für deinen Event im Kanton Zürich",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/neuenburg",
+        "h1": "Agentur für deinen Event im Kanton Neuenburg",
+        "results_count": "13 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/genf",
+        "h1": "Agentur für deinen Event im Kanton Genf",
+        "results_count": "13 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/st_gallen",
+        "h1": "Agentur für deinen Event im Kanton St. Gallen",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/glarus",
+        "h1": "Agentur für deinen Event im Kanton Glarus",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/appenzell_ausserrhoden",
+        "h1": "Agentur für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "16 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/schaffhausen",
+        "h1": "Agentur für deinen Event im Kanton Schaffhausen",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/nidwalden",
+        "h1": "Agentur für deinen Event im Kanton Nidwalden",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/jura",
+        "h1": "Agentur für deinen Event im Kanton Jura",
+        "results_count": "13 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/uri",
+        "h1": "Agentur für deinen Event im Kanton Uri",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/agentur/liechtenstein",
+        "h1": "Agentur für deinen Event im Kanton Liechtenstein",
+        "results_count": "4 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/thurgau",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Thurgau",
+        "results_count": "34 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/solothurn",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Solothurn",
+        "results_count": "25 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/obwalden",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Obwalden",
+        "results_count": "24 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/tessin",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Tessin",
+        "results_count": "18 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/zuerich",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Zürich",
+        "results_count": "23 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/schwyz",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Schwyz",
+        "results_count": "35 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/graubuenden",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Graubünden",
+        "results_count": "34 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/wallis",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Wallis",
+        "results_count": "33 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/basel_landschaft",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "39 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/aargau",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Aargau",
+        "results_count": "42 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/basel_stadt",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Basel-Stadt",
+        "results_count": "39 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/fribourg",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Fribourg",
+        "results_count": "25 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/zug",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Zug",
+        "results_count": "37 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/luzern",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Luzern",
+        "results_count": "26 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/waadt",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Waadt",
+        "results_count": "30 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/bern",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Bern",
+        "results_count": "20 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/neuenburg",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Neuenburg",
+        "results_count": "26 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/st_gallen",
+        "h1": "Catering, Partyservice für deinen Event im Kanton St. Gallen",
+        "results_count": "39 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/genf",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Genf",
+        "results_count": "30 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/glarus",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Glarus",
+        "results_count": "23 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/schaffhausen",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Schaffhausen",
+        "results_count": "28 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/appenzell_ausserrhoden",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "21 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/nidwalden",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Nidwalden",
+        "results_count": "22 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/appenzell_innerrhoden",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "21 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/jura",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Jura",
+        "results_count": "25 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/uri",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Uri",
+        "results_count": "26 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/catering_partyservice/liechtenstein",
+        "h1": "Catering, Partyservice für deinen Event im Kanton Liechtenstein",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/solothurn",
+        "h1": "Eventtechnik für deinen Event im Kanton Solothurn",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/tessin",
+        "h1": "Eventtechnik für deinen Event im Kanton Tessin",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/obwalden",
+        "h1": "Eventtechnik für deinen Event im Kanton Obwalden",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/thurgau",
+        "h1": "Eventtechnik für deinen Event im Kanton Thurgau",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/zuerich",
+        "h1": "Eventtechnik für deinen Event im Kanton Zürich",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/wallis",
+        "h1": "Eventtechnik für deinen Event im Kanton Wallis",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/schwyz",
+        "h1": "Eventtechnik für deinen Event im Kanton Schwyz",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/graubuenden",
+        "h1": "Eventtechnik für deinen Event im Kanton Graubünden",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/aargau",
+        "h1": "Eventtechnik für deinen Event im Kanton Aargau",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/fribourg",
+        "h1": "Eventtechnik für deinen Event im Kanton Fribourg",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/basel_stadt",
+        "h1": "Eventtechnik für deinen Event im Kanton Basel-Stadt",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/zug",
+        "h1": "Eventtechnik für deinen Event im Kanton Zug",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/luzern",
+        "h1": "Eventtechnik für deinen Event im Kanton Luzern",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/bern",
+        "h1": "Eventtechnik für deinen Event im Kanton Bern",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/waadt",
+        "h1": "Eventtechnik für deinen Event im Kanton Waadt",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/neuenburg",
+        "h1": "Eventtechnik für deinen Event im Kanton Neuenburg",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/st_gallen",
+        "h1": "Eventtechnik für deinen Event im Kanton St. Gallen",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/schaffhausen",
+        "h1": "Eventtechnik für deinen Event im Kanton Schaffhausen",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/glarus",
+        "h1": "Eventtechnik für deinen Event im Kanton Glarus",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/genf",
+        "h1": "Eventtechnik für deinen Event im Kanton Genf",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/appenzell_ausserrhoden",
+        "h1": "Eventtechnik für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/appenzell_innerrhoden",
+        "h1": "Eventtechnik für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/nidwalden",
+        "h1": "Eventtechnik für deinen Event im Kanton Nidwalden",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/jura",
+        "h1": "Eventtechnik für deinen Event im Kanton Jura",
+        "results_count": "14 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/liechtenstein",
+        "h1": "Eventtechnik für deinen Event im Kanton Liechtenstein",
+        "results_count": "3 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/solothurn",
+        "h1": "Infrastruktur für deinen Event im Kanton Solothurn",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/thurgau",
+        "h1": "Infrastruktur für deinen Event im Kanton Thurgau",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/eventtechnik/uri",
+        "h1": "Eventtechnik für deinen Event im Kanton Uri",
+        "results_count": "15 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/obwalden",
+        "h1": "Infrastruktur für deinen Event im Kanton Obwalden",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/zuerich",
+        "h1": "Infrastruktur für deinen Event im Kanton Zürich",
+        "results_count": "6 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/graubuenden",
+        "h1": "Infrastruktur für deinen Event im Kanton Graubünden",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/basel_landschaft",
+        "h1": "Infrastruktur für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/aargau",
+        "h1": "Infrastruktur für deinen Event im Kanton Aargau",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/basel_stadt",
+        "h1": "Infrastruktur für deinen Event im Kanton Basel-Stadt",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/tessin",
+        "h1": "Infrastruktur für deinen Event im Kanton Tessin",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/fribourg",
+        "h1": "Infrastruktur für deinen Event im Kanton Fribourg",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/zug",
+        "h1": "Infrastruktur für deinen Event im Kanton Zug",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/luzern",
+        "h1": "Infrastruktur für deinen Event im Kanton Luzern",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/waadt",
+        "h1": "Infrastruktur für deinen Event im Kanton Waadt",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/schwyz",
+        "h1": "Infrastruktur für deinen Event im Kanton Schwyz",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/neuenburg",
+        "h1": "Infrastruktur für deinen Event im Kanton Neuenburg",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/bern",
+        "h1": "Infrastruktur für deinen Event im Kanton Bern",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/st_gallen",
+        "h1": "Infrastruktur für deinen Event im Kanton St. Gallen",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/genf",
+        "h1": "Infrastruktur für deinen Event im Kanton Genf",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/glarus",
+        "h1": "Infrastruktur für deinen Event im Kanton Glarus",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/schaffhausen",
+        "h1": "Infrastruktur für deinen Event im Kanton Schaffhausen",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/nidwalden",
+        "h1": "Infrastruktur für deinen Event im Kanton Nidwalden",
+        "results_count": "5 Anbieter"
+    },
+    {
+        "url": "https://www.eventlokale.ch/provider/infrastruktur/appenzell_ausserrhoden",
+        "h1": "Infrastruktur für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "5 Anbieter"
+    }
+]

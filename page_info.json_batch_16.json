@@ -1,0 +1,502 @@
+[
+    {
+        "url": "https://www.eventlokale.ch/locations/oeffentlicher_anlass/appenzell_ausserrhoden",
+        "h1": "Locations für Öffentlicher Anlass im Kanton Appenzell Ausserrhoden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/oeffentlicher_anlass/jura",
+        "h1": "Locations für Öffentlicher Anlass im Kanton Jura",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/oeffentlicher_anlass/nidwalden",
+        "h1": "Locations für Öffentlicher Anlass im Kanton Nidwalden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/oeffentlicher_anlass/appenzell_innerrhoden",
+        "h1": "Locations für Öffentlicher Anlass im Kanton Appenzell Innerrhoden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/oeffentlicher_anlass/schaffhausen",
+        "h1": "Locations für Öffentlicher Anlass im Kanton Schaffhausen",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/oeffentlicher_anlass/uri",
+        "h1": "Locations für Öffentlicher Anlass im Kanton Uri",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/thurgau",
+        "h1": "Bar, Club für deinen Event im Kanton Thurgau",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/oeffentlicher_anlass/liechtenstein",
+        "h1": "Locations für Öffentlicher Anlass im Kanton Liechtenstein",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/tessin",
+        "h1": "Bar, Club für deinen Event im Kanton Tessin",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/obwalden",
+        "h1": "Bar, Club für deinen Event im Kanton Obwalden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/schwyz",
+        "h1": "Bar, Club für deinen Event im Kanton Schwyz",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/wallis",
+        "h1": "Bar, Club für deinen Event im Kanton Wallis",
+        "results_count": "11 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/zuerich",
+        "h1": "Bar, Club für deinen Event im Kanton Zürich",
+        "results_count": "95 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/solothurn",
+        "h1": "Bar, Club für deinen Event im Kanton Solothurn",
+        "results_count": "17 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/graubuenden",
+        "h1": "Bar, Club für deinen Event im Kanton Graubünden",
+        "results_count": "21 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/basel_landschaft",
+        "h1": "Bar, Club für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/aargau",
+        "h1": "Bar, Club für deinen Event im Kanton Aargau",
+        "results_count": "22 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/basel_stadt",
+        "h1": "Bar, Club für deinen Event im Kanton Basel-Stadt",
+        "results_count": "38 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/fribourg",
+        "h1": "Bar, Club für deinen Event im Kanton Fribourg",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/zug",
+        "h1": "Bar, Club für deinen Event im Kanton Zug",
+        "results_count": "13 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/bern",
+        "h1": "Bar, Club für deinen Event im Kanton Bern",
+        "results_count": "42 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/waadt",
+        "h1": "Bar, Club für deinen Event im Kanton Waadt",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/luzern",
+        "h1": "Bar, Club für deinen Event im Kanton Luzern",
+        "results_count": "26 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/neuenburg",
+        "h1": "Bar, Club für deinen Event im Kanton Neuenburg",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/st_gallen",
+        "h1": "Bar, Club für deinen Event im Kanton St. Gallen",
+        "results_count": "19 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/glarus",
+        "h1": "Bar, Club für deinen Event im Kanton Glarus",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/genf",
+        "h1": "Bar, Club für deinen Event im Kanton Genf",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/schaffhausen",
+        "h1": "Bar, Club für deinen Event im Kanton Schaffhausen",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/appenzell_ausserrhoden",
+        "h1": "Bar, Club für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/nidwalden",
+        "h1": "Bar, Club für deinen Event im Kanton Nidwalden",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/appenzell_innerrhoden",
+        "h1": "Bar, Club für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/liechtenstein",
+        "h1": "Bar, Club für deinen Event im Kanton Liechtenstein",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/jura",
+        "h1": "Bar, Club für deinen Event im Kanton Jura",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/bar_club/uri",
+        "h1": "Bar, Club für deinen Event im Kanton Uri",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/thurgau",
+        "h1": "Eventlocation für deinen Event im Kanton Thurgau",
+        "results_count": "81 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/solothurn",
+        "h1": "Eventlocation für deinen Event im Kanton Solothurn",
+        "results_count": "87 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/tessin",
+        "h1": "Eventlocation für deinen Event im Kanton Tessin",
+        "results_count": "99 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/obwalden",
+        "h1": "Eventlocation für deinen Event im Kanton Obwalden",
+        "results_count": "20 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/schwyz",
+        "h1": "Eventlocation für deinen Event im Kanton Schwyz",
+        "results_count": "57 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/wallis",
+        "h1": "Eventlocation für deinen Event im Kanton Wallis",
+        "results_count": "54 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/zuerich",
+        "h1": "Eventlocation für deinen Event im Kanton Zürich",
+        "results_count": "481 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/graubuenden",
+        "h1": "Eventlocation für deinen Event im Kanton Graubünden",
+        "results_count": "95 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/basel_landschaft",
+        "h1": "Eventlocation für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "58 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/basel_stadt",
+        "h1": "Eventlocation für deinen Event im Kanton Basel-Stadt",
+        "results_count": "139 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/aargau",
+        "h1": "Eventlocation für deinen Event im Kanton Aargau",
+        "results_count": "144 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/fribourg",
+        "h1": "Eventlocation für deinen Event im Kanton Fribourg",
+        "results_count": "21 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/zug",
+        "h1": "Eventlocation für deinen Event im Kanton Zug",
+        "results_count": "47 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/luzern",
+        "h1": "Eventlocation für deinen Event im Kanton Luzern",
+        "results_count": "174 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/waadt",
+        "h1": "Eventlocation für deinen Event im Kanton Waadt",
+        "results_count": "94 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/st_gallen",
+        "h1": "Eventlocation für deinen Event im Kanton St. Gallen",
+        "results_count": "133 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/bern",
+        "h1": "Eventlocation für deinen Event im Kanton Bern",
+        "results_count": "337 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/neuenburg",
+        "h1": "Eventlocation für deinen Event im Kanton Neuenburg",
+        "results_count": "13 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/genf",
+        "h1": "Eventlocation für deinen Event im Kanton Genf",
+        "results_count": "37 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/glarus",
+        "h1": "Eventlocation für deinen Event im Kanton Glarus",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/appenzell_ausserrhoden",
+        "h1": "Eventlocation für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/nidwalden",
+        "h1": "Eventlocation für deinen Event im Kanton Nidwalden",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/schaffhausen",
+        "h1": "Eventlocation für deinen Event im Kanton Schaffhausen",
+        "results_count": "30 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/appenzell_innerrhoden",
+        "h1": "Eventlocation für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/jura",
+        "h1": "Eventlocation für deinen Event im Kanton Jura",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/liechtenstein",
+        "h1": "Eventlocation für deinen Event im Kanton Liechtenstein",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/eventlocation/uri",
+        "h1": "Eventlocation für deinen Event im Kanton Uri",
+        "results_count": "12 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/thurgau",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Thurgau",
+        "results_count": "28 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/solothurn",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Solothurn",
+        "results_count": "20 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/tessin",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Tessin",
+        "results_count": "16 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/obwalden",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Obwalden",
+        "results_count": "10 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/zuerich",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Zürich",
+        "results_count": "82 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/wallis",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Wallis",
+        "results_count": "10 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/schwyz",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Schwyz",
+        "results_count": "6 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/graubuenden",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Graubünden",
+        "results_count": "36 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/basel_landschaft",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "18 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/basel_stadt",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Basel-Stadt",
+        "results_count": "16 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/aargau",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Aargau",
+        "results_count": "27 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/zug",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Zug",
+        "results_count": "8 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/luzern",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Luzern",
+        "results_count": "45 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/fribourg",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Fribourg",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/waadt",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Waadt",
+        "results_count": "14 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/bern",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Bern",
+        "results_count": "85 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/neuenburg",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Neuenburg",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/st_gallen",
+        "h1": "Hochzeitslocation für deinen Event im Kanton St. Gallen",
+        "results_count": "25 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/genf",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Genf",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/glarus",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Glarus",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/schaffhausen",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Schaffhausen",
+        "results_count": "7 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/appenzell_ausserrhoden",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Appenzell Ausserrhoden",
+        "results_count": "3 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/appenzell_innerrhoden",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Appenzell Innerrhoden",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/nidwalden",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Nidwalden",
+        "results_count": "5 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/jura",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Jura",
+        "results_count": "1 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/uri",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Uri",
+        "results_count": "2 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hochzeitslocation/liechtenstein",
+        "h1": "Hochzeitslocation für deinen Event im Kanton Liechtenstein",
+        "results_count": "0 Resultat"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/thurgau",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Thurgau",
+        "results_count": "26 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/tessin",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Tessin",
+        "results_count": "59 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/solothurn",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Solothurn",
+        "results_count": "24 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/obwalden",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Obwalden",
+        "results_count": "26 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/zuerich",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Zürich",
+        "results_count": "89 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/schwyz",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Schwyz",
+        "results_count": "25 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/graubuenden",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Graubünden",
+        "results_count": "147 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/basel_landschaft",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Basel-Landschaft",
+        "results_count": "15 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/wallis",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Wallis",
+        "results_count": "100 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/aargau",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Aargau",
+        "results_count": "28 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/basel_stadt",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Basel-Stadt",
+        "results_count": "23 Resultate"
+    },
+    {
+        "url": "https://www.eventlokale.ch/locations/hotel_seminarhotel/fribourg",
+        "h1": "Hotel, Seminarhotel für deinen Event im Kanton Fribourg",
+        "results_count": "20 Resultate"
+    }
+]
