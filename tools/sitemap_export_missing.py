@@ -93,40 +93,36 @@ def process_sitemap_urls(sitemap_urls):
                 print(f"Error fetching {url}: {e}")
     return all_page_info
 
-def main(sitemap_url, output_file, max_count=None, batch_size=100):
-    sitemap_urls = get_sitemap_urls(sitemap_url)
-    
-    filtered_sitemap_urls = filter_search_urls(sitemap_urls)
-    
-    all_sitemap_urls = []
-    
-    for url in filtered_sitemap_urls:
-        sub_sitemap_urls = get_sitemap_urls(url)
-        all_sitemap_urls.extend(sub_sitemap_urls)
-    
-    if max_count:
-        all_sitemap_urls = all_sitemap_urls[:max_count]
-    
-    total_urls = len(all_sitemap_urls)
-    print(f"Total URLs to process: {total_urls}")
-    batches = [all_sitemap_urls[i:i + batch_size] for i in range(0, total_urls, batch_size)]
-    
-    all_page_info = []
-    for i, batch in enumerate(batches):
-        print(f"Processing batch {i + 1}/{len(batches)}")
-        batch_info = process_sitemap_urls(batch)
-        all_page_info.extend(batch_info)
-        
-        temp_output_file = f"{output_file}_batch_{i + 1}.json"
-        with open(temp_output_file, 'w', encoding='utf-8') as f:
-            json.dump(batch_info, f, ensure_ascii=False, indent=4)
-    
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(all_page_info, f, ensure_ascii=False, indent=4)
+def main(sitemap_url, page_info_file, output_file, max_count=None, batch_size=350):
+    # Load the existing JSON data
+    page_info_file_path = os.path.join('..', 'json', page_info_file)
+    with open(page_info_file_path, 'r', encoding='utf-8') as file:
+        page_info_data = json.load(file)
 
-    print("Data has been successfully extracted and saved to", output_file)
+    # Filter entries with "h1" or "results_count" equal to "Missing due to error"
+    error_entries = [entry for entry in page_info_data if entry['h1'] == "Missing due to error" or entry['results_count'] == "Missing due to error"]
+    error_urls = [entry['url'] for entry in error_entries]
+
+    if error_entries:
+        print(f"Found {len(error_entries)} entries with errors. Re-fetching their information...")
+        error_page_info = process_sitemap_urls(error_urls)
+
+        # Update the original page info data with the corrected entries
+        for updated_entry in error_page_info:
+            for entry in page_info_data:
+                if entry['url'] == updated_entry['url']:
+                    entry['h1'] = updated_entry['h1']
+                    entry['results_count'] = updated_entry['results_count']
+
+    # Save the updated data
+    output_file_path = os.path.join('..', 'json', output_file)
+    with open(output_file_path, 'w', encoding='utf-8') as f:
+        json.dump(page_info_data, f, ensure_ascii=False, indent=4)
+
+    print("Data has been successfully updated and saved to", output_file)
 
 sitemap_url = 'https://www.eventlokale.ch/sitemap.xml'
-output_file = 'page_info.json'
+page_info_file = 'updated_page_info.json'
+output_file = 'updated_page_info_with_missing.json'
 max_count = None
-main(sitemap_url, output_file, max_count)
+main(sitemap_url, page_info_file, output_file, max_count)
